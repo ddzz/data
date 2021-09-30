@@ -534,6 +534,7 @@ function assertIsString(id: string | null): asserts id is string {
   }
 }
 
+// this function helps resolve whether we have a pending request that we should use instead
 function isSameRequest(options: Dict<unknown> = {}, reqOptions: Dict<unknown> = {}) {
   return options.include === reqOptions.include;
 }
