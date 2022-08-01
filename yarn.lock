@@ -7420,12 +7420,12 @@ eslint-module-utils@^2.7.2:
     find-up "^2.1.0"
 
 "eslint-plugin-ember-data@link:./packages/unpublished-eslint-rules":
-  version "4.4.0-alpha.9"
+  version "4.4.0-alpha.10"
 
-eslint-plugin-ember@^10.5.8:
-  version "10.6.0"
-  resolved "https://registry.npmjs.org/eslint-plugin-ember/-/eslint-plugin-ember-10.6.0.tgz#cf02e651300d67ddafef01616f33c07cebb09dd7"
-  integrity sha512-HrI/6jIHcqOfFHP0PRDdvvIZkJhBUxf7V+GUFizMG7EHyqXd/VR7BJSdgXbo1DwvDvCefO5Kz0YMZvh5fnNLOQ==
+eslint-plugin-ember@^11.0.4:
+  version "11.0.4"
+  resolved "https://registry.npmjs.org/eslint-plugin-ember/-/eslint-plugin-ember-11.0.4.tgz#7504b661bca9eb7229aad8c15359511b58517e7c"
+  integrity sha512-zW9K9xRgt503TMHjmtGRW2OFtLimUgEEGj3Z2LHn6vVuMh0hglPKjI39Cgx/SkoZvBjxN6PB6N+M0qDBQGIlBw==
   dependencies:
     "@ember-data/rfc395-data" "^0.0.4"
     css-tree "^2.0.4"
